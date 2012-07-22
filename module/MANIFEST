@@ -1,0 +1,7 @@
+Changes
+Makefile.PL
+MANIFEST
+README
+t/VerilogTools.t
+in/VerilogTools.pm
+scripts/update.pl
