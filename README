@@ -46,4 +46,12 @@
 #
 #******************************************************************
 
-
+Anyone who designs with Verilog HDL has probably grown tired of generating 
+module instantiations in a hierarchical design, or creating a new top level 
+or lower level Verilog HDL module. I have generated a few Perl Scripts that 
+will automatically generate the module instantiations, top level module, and 
+lower level module for you. These Perl Scripts can be invoked from within 
+VI/VIM/GVIM, or a DOS Command Window. If you invoke them from within VI, the 
+script output will be printed in the current file. If you invoke them from 
+within a DOS, Cygwin, or Bash Command Window, then you will have to either 
+cut and paste into your Verilog HDL file or pipe the output to a new file.
