@@ -77,7 +77,7 @@ WriteMakefile(
     PREREQ_PM         => {}, # e.g., Module::Name => 1.1
     ($] >= 5.005 ?     ## Add these new keywords supported since 5.005
       (ABSTRACT_FROM  => 'lib/VerilogTools.pm', # retrieve abstract from module
-       AUTHOR         => 'Jeremy Webb <jeremy.webb@ieee.org>') : ()),
+       AUTHOR         => 'Jeremy Webb <jwwebb@jwebb-design.com>') : ()),
 );
 printf("\n");
 

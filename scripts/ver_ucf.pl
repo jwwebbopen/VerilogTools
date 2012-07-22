@@ -1,6 +1,8 @@
 #!/usr/bin/env perl
 
 #******************************************************************
+# vim:ts=8:sw=8:expandtab:cindent
+#******************************************************************
 #
 # ver_ucf.pl module
 #
@@ -10,8 +12,8 @@
 # created by:	jwwebb
 # last edit on:	$DateTime: $ 
 # last edit by:	$Author: $
-# revision:	    $Revision: $
-# comments:	    Generated
+# revision:     $Revision: $
+# comments:     Generated
 # 
 #******************************************************************
 # Revision List:

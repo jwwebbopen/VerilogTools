@@ -2373,11 +2373,11 @@ None at the moment.
 
 Example scripts can be accessed at the following website:
 
-    * http://www.ece.ucdavis.edu/~jwwebb/ee/howto/using_perl_with_verilog.html
+    * http://www.jwebb-design.com/ee/howto/using_perl_with_verilog.shtml
 
 =head1 AUTHOR
 
-Jeremy Webb, E<lt>jwwebb@ece.ucdavis.edu<gt>
+Jeremy Webb, E<lt>jwwebb@jwebb-design.com<gt>
 
 =head1 BUGS
 
@@ -2385,6 +2385,6 @@ Please report any bugs or feature requests to the author.
 
 =head1 COPYRIGHT AND LICENSE
 
-Copyright (C) 2009 by Jeremy Webb
+Copyright (C) 2012 by Jeremy Webb
 
 =cut
